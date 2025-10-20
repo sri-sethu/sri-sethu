@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm still a newbie here. This is my so-called contribution chart 👇
 <div>
   <a href="https://git.io/streak-stats"> 
     <img src="https://streak-stats.demolab.com?user=sri-sethu&theme=github-dark-blue&border_radius=20" alt="GitHub Streak" />
