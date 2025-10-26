@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 I'm still a newbie here. This is my so-called contribution chart 👇
+Trying maintain streak no matter what even if its my own repo. XD
 <div>
   <a href="https://git.io/streak-stats"> 
     <img src="https://streak-stats.demolab.com?user=sri-sethu&theme=github-dark-blue&border_radius=20" alt="GitHub Streak" />
