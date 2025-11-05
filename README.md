@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm still a newbie here. This is my so-called contribution chart 👇 
+I'm still a newbie here. This is my so-called contribution chart 👇. If it's not showing, not my problem.
 <br>
 Trying maintain streak no matter what even if its my own repo. XD
 <div>
